@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1054257776745",
+    "firebase_url": "https://hapcoalt.firebaseio.com",
+    "project_id": "hapcoalt",
+    "storage_bucket": "hapcoalt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054257776745:android:e7339a045fb2cd6e",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.kotlinmesaj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054257776745-u16tshb16820dp1g0q329k5nb7kbu5f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBfQa7EGw6g_eUIUHocy78MmSgSAapiRc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
